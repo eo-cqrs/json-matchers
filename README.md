@@ -25,7 +25,7 @@ Hamcrest JSON Matchers.
 <br>
 We offer everything through simple, declarative Hamcrest Matchers.
 
-**Principles**. These are the [design principles](https://www.elegantobjects.org/#principles) behind EOkson.
+**Principles**. These are the [design principles](https://www.elegantobjects.org/#principles) behind json-matchers.
 
 **How to use**. All you need is this (get the latest
 version [here](https://search.maven.org/artifact/io.github.eo-cqrs/json-matchers)):
